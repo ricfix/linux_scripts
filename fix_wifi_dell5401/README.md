@@ -3,7 +3,7 @@ and then download the driver for wifi and install it.
 
 At the end please reboot your pc
 
-If yo have already 5.1 kernel ou higher just run the #Wifi drive install commands
+If you have already 5.1 kernel ou higher just run the #Wifi drive install commands
 
 
 To RUN:
